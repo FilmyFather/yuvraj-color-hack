@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build files
+dist/
+.vite/
+
+# Editor and system files
+.idea/
+.vscode/
+.DS_Store
